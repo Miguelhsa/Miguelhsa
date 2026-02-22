@@ -2,7 +2,6 @@
 
 ## Background in **Logistics & Operations Management**<br>- Strong focus on **process optimization, data analytics and digital transformation**<br>- Experience leading teams and implementing **real operational improvements**<br>- Currently expanding my profile in **Data Science, Analytics and IT Consulting**<br><br>I like turning **complex operational problems into structured, measurable solutions**.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/miguel-hidalgo-san-andrés-072680110) 
 
