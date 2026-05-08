@@ -1,4 +1,4 @@
-# I'm Miguel Hidalgo<br><br> **Operations, Data & IT Professional**  <br>I bridge **business operations** and **technology** to build scalable, data-driven solutions.<br><br>---<br><br> 
+# I'm Miguel Hidalgo<br><br> **Operations, Data & IT Professional**  <br>I bridge **business operations** and **technology** to build scalable, data-driven solutions.
 
 ## Background in **Logistics & Operations Management**<br>- Strong focus on **process optimization, data analytics and digital transformation**<br>- Experience leading teams and implementing **real operational improvements**<br>- Currently expanding my profile in **Data Science, Analytics and IT Consulting**<br><br>I like turning **complex operational problems into structured, measurable solutions**.<br>
 
